@@ -1,0 +1,7 @@
+@use './assets/styles/variables/variables' ;
+
+body {
+  margin: 0;
+  font-family: variables.$general-font
+}
+
