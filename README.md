@@ -1,3 +1,7 @@
+# Hadi Kalk Gidelim - IN PROGRESS
+## Find events, concerts, plays and more than 
+## Hadi Kalk Gidelim is a activity finder application. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
