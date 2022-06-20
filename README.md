@@ -1,5 +1,5 @@
 # Hadi Kalk Gidelim - IN PROGRESS
-## Find events, concerts, plays and more than 
+#### Find events, concerts, plays and more..
 ## Hadi Kalk Gidelim is a activity finder application. 
 
 # Getting Started with Create React App
